@@ -1,0 +1,33 @@
+ .calcul-MET div .libelle.libelle-min {
+  red: Acolor;
+  color: red;
+  font-weight: bold;
+}
+
+.calcul-MET div .libelle.libelle-min::after {
+  content: " : ";
+}
+
+.calcul-MET div .libelle.libelle-max {
+  red: Acolor;
+  color: red;
+  font-weight: bold;
+  width: 100%;
+}
+
+.calcul-MET div .libelle.libelle-max::after {
+  content: " : ";
+}
+
+
+.calcul-MET div .libelle.libelle-moyenne {
+  red: Acolor;
+  color: red;
+  font-weight: bold;
+  width: 100%;
+}
+
+.calcul-MET div .libelle.libelle-moyenne::after {
+  content: " : ";
+}
+	

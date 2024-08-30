@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.0" type="plugin" group="content" method="upgrade">
+    <name>calcul calories marche </name>
+    <author>Sébastien LHUILLIER</author>
+    <creationDate>Juillet 2024</creationDate>
+    <copyright></copyright>
+    <license></license>
+    <authorEmail>sebastien.lhuillier+joomla@gmail.com</authorEmail>
+    <authorUrl>www.sebastien-lhuillier.com</authorUrl>
+    <version>1.0</version>
+    <description>
+       Caclule le nombre de calories en retournant la valeur minimale et maximale de calories dépensées à partir d'une distance parcourue.
+    </description>
+    <files>
+        <filename>calculmet.xml</filename>
+        <filename plugin="calculmet">calculmet.php</filename>
+    </files>
+</extension>
